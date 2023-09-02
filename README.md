@@ -1,4 +1,6 @@
-# pinia_test
+# pinia_tasks
+
+![Screenshot (98)](https://github.com/zayarmyooo19/pinia-tasks/assets/69146975/631acb8d-5e30-4510-bbf4-aa09347beec1)
 
 This template should help get you started developing with Vue 3 in Vite.
 
