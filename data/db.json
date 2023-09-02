@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "play gloomhaven",
+      "isFav": false
+    },
+    {
+      "id": 2,
+      "title": "mow the lawn",
+      "isFav": true
+    },
+    {
+      "title": "become an eldern lord",
+      "isFav": true,
+      "id": 3
+    },
+    {
+      "title": "eat some pinapples",
+      "isFav": true,
+      "id": 4
+    },
+    {
+      "title": "have a pooooo",
+      "isFav": true,
+      "id": 562070
+    },
+    {
+      "title": "I need to weight loss",
+      "isFav": false,
+      "id": 437094
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "pinia_test",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "watch-json": "json-server --watch ./data/db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "pinia": "^2.1.6",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.1",
+    "vite": "^4.4.9"
+  }
+}
