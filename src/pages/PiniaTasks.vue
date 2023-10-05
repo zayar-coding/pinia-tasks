@@ -2,7 +2,7 @@
     <!-- heading -->
       <header>
         <img src="https://pinia.vuejs.org/logo.svg" alt="pinia logo" />
-        <h1>Pinia Tasks By <span style="color: #161718;"> Net Ninja </span></h1>      
+        <h1>Pinia Tasks</h1>
       
       </header>
   
